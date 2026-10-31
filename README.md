@@ -1,4 +1,4 @@
-[DASHBOARD GTA VI](https://dashboard-gta-vi.streamlit.app/)
+[🎮 Haz clic aquí para explorar el Dashboard de GTA VI en vivo](https://dashboard-gta-vi.streamlit.app/)
 
 
 # 🌴 GTA VI - Community Sentiment Dashboard 🌴
