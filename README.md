@@ -1,3 +1,6 @@
+[DASHBOARD GTA VI](https://dashboard-gta-vi.streamlit.app/)
+
+
 # 🌴 GTA VI - Community Sentiment Dashboard 🌴
 
 Un dashboard interactivo desarrollado en Python para analizar y visualizar las reacciones, expectativas y sentimientos de la comunidad frente a los avances de **Grand Theft Auto VI**.
