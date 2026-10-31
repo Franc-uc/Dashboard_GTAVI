@@ -1,0 +1,13 @@
+dashboard_gta6/
+│
+├── app.py                         # Página de bienvenida / Navegación principal
+├── pages/
+│   ├── 1_Resumen_Ejecutivo.py     # Vista 1: KPIs, hallazgo central y decisión
+│   ├── 2_Temas_y_Comparaciones.py # Vista 2: Sentimientos, gráficos y filtros[cite: 1]
+│   └── 3_Evidencia_y_Calidad.py   # Vista 3: Tabla interactiva y muestra[cite: 1]
+│
+├── data/
+│   └── datos_gta.xlsx             # Tu archivo de datos
+│
+├── README.md                      # Breve explicación de ejecución
+└── requirements.txt               # Librerías (streamlit, pandas, plotly, openpyxl)
