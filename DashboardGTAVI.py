@@ -1,6 +1,10 @@
 import streamlit as st
 from styles import aplicar_estilo_vice
 
+st.title("¡El servidor sí funciona!")
+st.stop()
+
+
 # 1. Configuración de página
 st.set_page_config(page_title="Dashboard GTA VI", page_icon="🌴", layout="wide")
 
